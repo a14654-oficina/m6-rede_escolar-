@@ -24,3 +24,6 @@
 <h5>Além disso, a plataforma contribui para uma melhor tomada de decisão, uma vez que permite um acesso rápido e organizado aos dados, facilitando a identificação de problemas, a gestão de recursos e o planeamento de intervenções futuras. A utilização deste sistema promove também maior transparência e eficiência no trabalho das equipas técnicas.</h5>
 
 <h5>Em suma, trata-se de uma ferramenta essencial para modernizar a gestão escolar, tornando-a mais estruturada, ágil e adaptada às necessidades atuais das instituições de ensino.</h5>
+
+# LINK SITE
+<i>[Link Principal](https://a14648-oficina.infinityfree.me/2I-REDES-M5-FP01/) </i>
