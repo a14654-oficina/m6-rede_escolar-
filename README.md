@@ -1,6 +1,6 @@
 # <h2> M6-rede_escolar</h2>
 
-<h3>Gestão de Rede Escolar — Explicação do Sistema</h3>
+<h5>Gestão de Rede Escolar — Explicação do Sistema</h5>
 
 Este sistema foi desenvolvido para facilitar a gestão integrada de uma rede escolar, permitindo centralizar e organizar informações essenciais numa única plataforma digital.
 
