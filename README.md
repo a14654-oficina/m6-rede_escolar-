@@ -1,1 +1,1 @@
-<h3>M6-rede_escolar</h3>
+<h2>M6-rede_escolar</h2>
