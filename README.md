@@ -18,7 +18,7 @@
 <h3>4. Intervenções</h3>
 <h5>Módulo de registo e monitorização de manutenções e reparações. Permite acompanhar o estado das intervenções, garantindo melhor controlo e histórico das ocorrências.</h5>
 
-<h3>onclusão</h3>
+<h3>Conclusão</h3>
 <h5>Este sistema representa uma solução completa para a gestão de infraestruturas escolares, ao reunir num único ambiente digital todas as informações relevantes sobre espaços, equipamentos e manutenção. Ao centralizar estes dados, reduz-se a dispersão de informação e minimizam-se erros associados a processos manuais.</h5>
 
 <h5>Além disso, a plataforma contribui para uma melhor tomada de decisão, uma vez que permite um acesso rápido e organizado aos dados, facilitando a identificação de problemas, a gestão de recursos e o planeamento de intervenções futuras. A utilização deste sistema promove também maior transparência e eficiência no trabalho das equipas técnicas.</h5>
