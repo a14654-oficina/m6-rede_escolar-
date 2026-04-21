@@ -1,4 +1,4 @@
-<h2> # M6-rede_escolar</h2>
+# <h2> M6-rede_escolar</h2>
 
 Gestão de Rede Escolar — Explicação do Sistema
 
