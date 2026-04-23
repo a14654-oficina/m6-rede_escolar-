@@ -26,4 +26,4 @@
 <h5>Em suma, trata-se de uma ferramenta essencial para modernizar a gestão escolar, tornando-a mais estruturada, ágil e adaptada às necessidades atuais das instituições de ensino.</h5>
 
 # LINK SITE
-<i>[Link Principal](https://a14648-oficina.infinityfree.me/2I-REDES-M5-FP01/) </i>
+<i>[Link Principal](https://a14654-oficina.infinityfree.me/m6-rede_escolar) </i>
